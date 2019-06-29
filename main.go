@@ -21,26 +21,40 @@ type WikiResponse struct {
 	} `json:"parse"`
 }
 
-type Player struct {
-	Account_id int    `json:"account_id,omitempty"`
-	Facebook   string `json:"facebook,omitempty"`
-	Instagram  string `json:"instagram,omitempty"`
-	Reddit     string `json:"reddit,omitempty"`
-	Steam      string `json:"steam,omitempty"`
-	Twitch     string `json:"twitch,omitempty"`
-	Twitter    string `json:"twitter,omitempty"`
-	Vk         string `json:"vk,omitempty"`
-	Weibo      string `json:"weibo,omitempty"`
-	YouTube    string `json:"youtube,omitempty"`
+type Item struct {
+	AccountID int    `json:"account_id,omitempty"`
+	TeamID    int    `json:"team_id,omitempty"`
+	LeagueID  int    `json:"leagueid,omitempty"`
+	Facebook  string `json:"facebook,omitempty"`
+	Instagram string `json:"instagram,omitempty"`
+	Reddit    string `json:"reddit,omitempty"`
+	Steam     string `json:"steam,omitempty"`
+	Twitch    string `json:"twitch,omitempty"`
+	Twitter   string `json:"twitter,omitempty"`
+	Vk        string `json:"vk,omitempty"`
+	Weibo     string `json:"weibo,omitempty"`
+	YouTube   string `json:"youtube,omitempty"`
 }
 
-var players []Player
+var items []Item
 
-type ByAccountId []Player
+type ByAccountID []Item
 
-func (a ByAccountId) Len() int           { return len(a) }
-func (a ByAccountId) Less(i, j int) bool { return a[i].Account_id < a[j].Account_id }
-func (a ByAccountId) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
+func (a ByAccountID) Len() int           { return len(a) }
+func (a ByAccountID) Less(i, j int) bool { return a[i].AccountID < a[j].AccountID }
+func (a ByAccountID) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
+
+type ByTeamID []Item
+
+func (a ByTeamID) Len() int           { return len(a) }
+func (a ByTeamID) Less(i, j int) bool { return a[i].TeamID < a[j].TeamID }
+func (a ByTeamID) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
+
+type ByLeagueID []Item
+
+func (a ByLeagueID) Len() int           { return len(a) }
+func (a ByLeagueID) Less(i, j int) bool { return a[i].LeagueID < a[j].LeagueID }
+func (a ByLeagueID) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
 
 func getJSON(url string, target interface{}) error {
 	r, err := retryablehttp.Get(url)
@@ -52,10 +66,12 @@ func getJSON(url string, target interface{}) error {
 	return json.NewDecoder(r.Body).Decode(target)
 }
 
-func getPlayerData(url string) {
+func getData(url, itemType string) {
 	url = "https://liquipedia.net/dota2/api.php?action=parse&prop=text&format=json&page=" + url
 
-	account_id := 0
+	accountID := 0
+	teamID := 0
+	leagueID := 0
 	dotabuff := ""
 	twitter := ""
 	facebook := ""
@@ -73,60 +89,72 @@ func getPlayerData(url string) {
 
 	infoBox := doc.Find("div", "class", "infobox-center")
 
-	links := infoBox.FindAll("a")
-	for _, link := range links {
-		linkHref := link.Attrs()["href"]
-		linkHrefSplit := strings.Split(linkHref, "/")
-		lnk := linkHrefSplit[len(linkHrefSplit)-1]
-		if link.Find("i", "class", "lp-dotabuff").Pointer != nil {
-			dotabuff = lnk
-		}
-		if link.Find("i", "class", "lp-twitter").Pointer != nil {
-			twitter = lnk
-		}
-		if link.Find("i", "class", "lp-facebook").Pointer != nil {
-			facebook = lnk
-		}
-		if link.Find("i", "class", "lp-twitch").Pointer != nil {
-			twitch = lnk
-		}
-		if link.Find("i", "class", "lp-vkontakte").Pointer != nil {
-			vk = lnk
-		}
-		if link.Find("i", "class", "lp-weibo").Pointer != nil {
-			weibo = lnk
-		}
-		if link.Find("i", "class", "lp-instagram").Pointer != nil {
-			instagram = lnk
-		}
-		if link.Find("i", "class", "lp-reddit").Pointer != nil {
-			reddit = lnk
-		}
-		if link.Find("i", "class", "lp-steam").Pointer != nil {
-			steam = lnk
-		}
-		if link.Find("i", "class", "lp-youtube").Pointer != nil {
-			youtube = lnk
-		}
+	if infoBox.Pointer != nil {
+		links := infoBox.FindAll("a")
+		for _, link := range links {
+			linkHref := link.Attrs()["href"]
+			linkHrefSplit := strings.Split(linkHref, "/")
+			lnk := linkHrefSplit[len(linkHrefSplit)-1]
+			if link.Find("i", "class", "lp-dotabuff").Pointer != nil {
+				dotabuff = lnk
+			}
+			if link.Find("i", "class", "lp-twitter").Pointer != nil {
+				twitter = lnk
+			}
+			if link.Find("i", "class", "lp-facebook").Pointer != nil {
+				facebook = lnk
+			}
+			if link.Find("i", "class", "lp-twitch").Pointer != nil {
+				twitch = lnk
+			}
+			if link.Find("i", "class", "lp-vkontakte").Pointer != nil {
+				vk = lnk
+			}
+			if link.Find("i", "class", "lp-weibo").Pointer != nil {
+				weibo = lnk
+			}
+			if link.Find("i", "class", "lp-instagram").Pointer != nil {
+				instagram = lnk
+			}
+			if link.Find("i", "class", "lp-reddit").Pointer != nil {
+				reddit = lnk
+			}
+			if link.Find("i", "class", "lp-steam").Pointer != nil {
+				steam = lnk
+			}
+			if link.Find("i", "class", "lp-youtube").Pointer != nil {
+				youtube = lnk
+			}
 
-		account_id, _ = strconv.Atoi(dotabuff)
+			if itemType == "player" {
+				accountID, _ = strconv.Atoi(dotabuff)
+			} else if itemType == "team" {
+				teamID, _ = strconv.Atoi(dotabuff)
+			} else if itemType == "league" {
+				leagueID, _ = strconv.Atoi(dotabuff)
+			}
+		}
 	}
 
-	playerSocialData := Player{
-		Account_id: account_id,
-		Facebook:   facebook,
-		Twitch:     twitch,
-		Twitter:    twitter,
-		Vk:         vk,
-		Weibo:      weibo,
-		Instagram:  instagram,
-		Reddit:     reddit,
-		Steam:      steam,
-		YouTube:    youtube,
+	itemSocialData := Item{
+		AccountID: accountID,
+		TeamID:    teamID,
+		LeagueID:  leagueID,
+		Facebook:  facebook,
+		Twitch:    twitch,
+		Twitter:   twitter,
+		Vk:        vk,
+		Weibo:     weibo,
+		Instagram: instagram,
+		Reddit:    reddit,
+		Steam:     steam,
+		YouTube:   youtube,
 	}
 
-	if playerSocialData.Account_id != 0 {
-		players = append(players, playerSocialData)
+	if itemSocialData.AccountID != 0 ||
+		itemSocialData.LeagueID != 0 ||
+		itemSocialData.TeamID != 0 {
+		items = append(items, itemSocialData)
 	}
 }
 
@@ -146,11 +174,43 @@ func getPlayers(url string) {
 					linkHref := playerLink.Attrs()["href"]
 					linkHrefSplit := strings.Split(linkHref, "/")
 					lnk := linkHrefSplit[len(linkHrefSplit)-1]
-					getPlayerData(lnk)
+					getData(lnk, "player")
 					time.Sleep(time.Minute)
 				}
 			}
 		}
+	}
+}
+
+func getTeams(url string) {
+	url = "https://liquipedia.net/dota2/api.php?action=parse&prop=text&format=json&page=" + url
+	var teamsData WikiResponse
+	getJSON(url, &teamsData)
+	doc := soup.HTMLParse(teamsData.Parse.Text.ParserOutput)
+	teams := doc.FindAll("span", "class", "team-template-text")
+	for _, team := range teams {
+		teamLink := team.Find("a")
+		linkHref := teamLink.Attrs()["href"]
+		linkHrefSplit := strings.Split(linkHref, "/")
+		lnk := linkHrefSplit[len(linkHrefSplit)-1]
+		getData(lnk, "team")
+		time.Sleep(time.Minute)
+	}
+}
+
+func getLeagues(url string) {
+	url = "https://liquipedia.net/dota2/api.php?action=parse&prop=text&format=json&page=" + url
+	var leaguesData WikiResponse
+	getJSON(url, &leaguesData)
+	doc := soup.HTMLParse(leaguesData.Parse.Text.ParserOutput)
+	leagues := doc.FindAll("div", "class", "Tournament")
+	for _, league := range leagues {
+		leagueLink := league.Find("a")
+		linkHref := leagueLink.Attrs()["href"]
+		linkHrefSplit := strings.Split(linkHref, "/")
+		lnk := linkHrefSplit[len(linkHrefSplit)-1]
+		getData(lnk, "league")
+		time.Sleep(time.Minute)
 	}
 }
 
@@ -161,9 +221,9 @@ func getPlayersJson() {
 		getPlayers(url)
 	}
 
-	sort.Sort(ByAccountId(players))
+	sort.Sort(ByAccountID(items))
 
-	b, err := json.Marshal(players)
+	b, err := json.Marshal(items)
 	if err != nil {
 		fmt.Println("error:", err)
 	}
@@ -172,6 +232,44 @@ func getPlayersJson() {
 	f.Write(b)
 }
 
+func getTeamsJson() {
+	urlList := [4]string{"Portal:Teams/Americas", "Portal:Teams/Europe", "Portal:Teams/China", "Portal:Teams/Southeast_Asia"}
+
+	for _, url := range urlList {
+		getTeams(url)
+	}
+
+	sort.Sort(ByTeamID(items))
+
+	b, err := json.Marshal(items)
+	if err != nil {
+		fmt.Println("error:", err)
+	}
+
+	f, err := os.Create("teams.json")
+	f.Write(b)
+}
+
+func getLeaguesJson() {
+	urlList := [4]string{"Premier_Tournaments", "Major_Tournaments"}
+
+	for _, url := range urlList {
+		getLeagues(url)
+	}
+
+	sort.Sort(ByLeagueID(items))
+
+	b, err := json.Marshal(items)
+	if err != nil {
+		fmt.Println("error:", err)
+	}
+
+	f, err := os.Create("leagues.json")
+	f.Write(b)
+}
+
 func main() {
 	getPlayersJson()
+	getTeamsJson()
+	getLeaguesJson()
 }
