@@ -205,10 +205,9 @@ func getLeagues(url string) {
 	doc := soup.HTMLParse(leaguesData.Parse.Text.ParserOutput)
 	leagues := doc.FindAll("div", "class", "Tournament")
 	for _, league := range leagues {
-		leagueLink := league.Find("a")
+		leagueLink := league.Find("b").Find("a")
 		linkHref := leagueLink.Attrs()["href"]
-		linkHrefSplit := strings.Split(linkHref, "/")
-		lnk := linkHrefSplit[len(linkHrefSplit)-1]
+		lnk := strings.Replace(linkHref, "/dota2/", "", -1)
 		getData(lnk, "league")
 		time.Sleep(time.Minute)
 	}
@@ -269,7 +268,7 @@ func getLeaguesJson() {
 }
 
 func main() {
-	getPlayersJson()
-	getTeamsJson()
+	// getPlayersJson()
+	// getTeamsJson()
 	getLeaguesJson()
 }
