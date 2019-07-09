@@ -268,7 +268,7 @@ func getLeaguesJson() {
 }
 
 func main() {
-	// getPlayersJson()
-	// getTeamsJson()
+	getPlayersJson()
+	getTeamsJson()
 	getLeaguesJson()
 }
