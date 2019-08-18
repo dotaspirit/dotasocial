@@ -218,6 +218,7 @@ func getPlayersJson() {
 
 	for _, url := range urlList {
 		getPlayers(url)
+		time.Sleep(time.Minute)
 	}
 
 	sort.Sort(ByAccountID(items))
@@ -236,6 +237,7 @@ func getTeamsJson() {
 
 	for _, url := range urlList {
 		getTeams(url)
+		time.Sleep(time.Minute)
 	}
 
 	sort.Sort(ByTeamID(items))
@@ -254,6 +256,7 @@ func getLeaguesJson() {
 
 	for _, url := range urlList {
 		getLeagues(url)
+		time.Sleep(time.Minute)
 	}
 
 	sort.Sort(ByLeagueID(items))
@@ -268,7 +271,10 @@ func getLeaguesJson() {
 }
 
 func main() {
+	items = nil
 	getPlayersJson()
+	items = nil
 	getTeamsJson()
+	items = nil
 	getLeaguesJson()
 }
