@@ -1,8 +1,12 @@
 package main
 
 import (
+	"compress/gzip"
 	"encoding/json"
 	"fmt"
+	"io"
+	"log"
+	"net/http"
 	"os"
 	"sort"
 	"strconv"
@@ -10,7 +14,6 @@ import (
 	"time"
 
 	"github.com/anaskhan96/soup"
-	"github.com/hashicorp/go-retryablehttp"
 )
 
 type WikiResponse struct {
@@ -57,13 +60,34 @@ func (a ByLeagueID) Less(i, j int) bool { return a[i].LeagueID < a[j].LeagueID }
 func (a ByLeagueID) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
 
 func getJSON(url string, target interface{}) error {
-	r, err := retryablehttp.Get(url)
+	client := &http.Client{}
+
+	log.Println(url)
+
+	req, err := http.NewRequest("GET", url, nil)
 	if err != nil {
-		return err
+		log.Fatalln(err)
+	}
+
+	req.Header.Set("User-Agent", "dotasocial/1.0 (https://yay.qa/; me@yay.qa)")
+	req.Header.Set("Accept-Encoding", "gzip")
+
+	r, err := client.Do(req)
+	if err != nil {
+		log.Fatalln(err)
 	}
 	defer r.Body.Close()
 
-	return json.NewDecoder(r.Body).Decode(target)
+	var reader io.ReadCloser
+	switch r.Header.Get("Content-Encoding") {
+	case "gzip":
+		reader, err = gzip.NewReader(r.Body)
+		defer reader.Close()
+	default:
+		reader = r.Body
+	}
+
+	return json.NewDecoder(reader).Decode(target)
 }
 
 func getData(url, itemType string) {
