@@ -252,7 +252,7 @@ func getTeamsJson() {
 }
 
 func getLeaguesJson() {
-	urlList := [4]string{"Premier_Tournaments", "Major_Tournaments"}
+	urlList := [4]string{"Tier_1_Tournaments", "Tier_2_Tournaments/2020"}
 
 	for _, url := range urlList {
 		getLeagues(url)
