@@ -131,7 +131,7 @@ func getData(url, itemType string) {
 			if link.Find("i", "class", "lp-twitch").Pointer != nil {
 				twitch = lnk
 			}
-			if link.Find("i", "class", "lp-vkontakte").Pointer != nil {
+			if link.Find("i", "class", "lp-vk").Pointer != nil {
 				vk = lnk
 			}
 			if link.Find("i", "class", "lp-weibo").Pointer != nil {
