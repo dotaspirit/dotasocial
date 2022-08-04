@@ -296,9 +296,9 @@ func getLeaguesJson() {
 
 func main() {
 	items = nil
-	getPlayersJson()
+	getLeaguesJson()
 	items = nil
 	getTeamsJson()
 	items = nil
-	getLeaguesJson()
+	getPlayersJson()
 }
