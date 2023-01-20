@@ -34,12 +34,6 @@
         "twitter": "PieLieDieDota"
     },
     {
-        "account_id": 7910302,
-        "steam": "76561197968176030",
-        "twitch": "pandaego",
-        "twitter": "pandaeg0"
-    },
-    {
         "account_id": 8591574,
         "steam": "76561197968857302",
         "twitch": "durpdurpd2",
@@ -49,7 +43,7 @@
         "account_id": 9403474,
         "instagram": "yamich368",
         "steam": "76561197969669202",
-        "twitch": "yami723",
+        "twitch": "yamich0",
         "vk": "yamichpg"
     },
     {
@@ -71,14 +65,6 @@
         "twitch": "vanskor",
         "twitter": "VANSKORdota",
         "vk": "vanskordota"
-    },
-    {
-        "account_id": 11865327,
-        "instagram": "nixjke",
-        "steam": "76561197972131055",
-        "twitch": "Nix",
-        "vk": "nixjke",
-        "youtube": "Nix_DOTA_2"
     },
     {
         "account_id": 12231202,
@@ -127,18 +113,20 @@
         "twitter": "notahax"
     },
     {
-        "account_id": 21270361,
-        "steam": "76561197981536089",
-        "twitch": "qoval"
+        "account_id": 19672354,
+        "facebook": "n0tail",
+        "instagram": "og_n0tail",
+        "steam": "76561197979938082",
+        "twitch": "BigDaddy",
+        "twitter": "OG_BDN0tail",
+        "vk": "n0tail",
+        "youtube": "UC9PPdobvorKgzQIdcsJsqlQ"
     },
     {
-        "account_id": 21289303,
-        "facebook": "DominikBlackReitmeier",
-        "instagram": "blackdotatv",
-        "reddit": "BlackDragon553",
-        "steam": "76561197981555031",
-        "twitch": "blackmeier",
-        "twitter": "BlackDotA2"
+        "account_id": 21270361,
+        "steam": "76561197981536089",
+        "twitch": "qoval",
+        "vk": "qoval123"
     },
     {
         "account_id": 21604967,
@@ -169,15 +157,6 @@
         "twitter": "kacordota"
     },
     {
-        "account_id": 26771994,
-        "facebook": "JerAx-Dota-2-649762145207051",
-        "instagram": "iamJERAX",
-        "reddit": "JerAxai1",
-        "steam": "76561197987037722",
-        "twitch": "JerAxai",
-        "twitter": "iamjerax"
-    },
-    {
         "account_id": 27178898,
         "facebook": "SkylarkDota",
         "steam": "76561197987444626",
@@ -185,24 +164,11 @@
         "twitter": "skylarkXZ"
     },
     {
-        "account_id": 28070572,
-        "facebook": "MarianoDOTA2",
-        "instagram": "mariano.caneda",
-        "steam": "76561197988336300",
-        "twitch": "p4pita",
-        "twitter": "mariansanjo"
-    },
-    {
         "account_id": 29110522,
         "facebook": "slickz88",
         "steam": "76561197989376250",
         "twitch": "slickz",
         "twitter": "slickzdota"
-    },
-    {
-        "account_id": 29904110,
-        "steam": "76561197990169838",
-        "twitter": "bleekdota"
     },
     {
         "account_id": 31078647,
@@ -257,22 +223,10 @@
         "steam": "76561197997664905"
     },
     {
-        "account_id": 38628747,
-        "facebook": "MoonMeanderated",
-        "instagram": "moonmeanduh",
-        "steam": "76561197998894475",
-        "twitch": "moonmeander",
-        "twitter": "MoonMeanderated",
-        "youtube": "peachymoonz"
-    },
-    {
-        "account_id": 38628747,
-        "facebook": "MoonMeanderated",
-        "instagram": "moonmeanduh",
-        "steam": "76561197998894475",
-        "twitch": "moonmeander",
-        "twitter": "MoonMeanderated",
-        "youtube": "peachymoonz"
+        "account_id": 37658157,
+        "facebook": "c4tdota",
+        "steam": "76561197997923885",
+        "twitter": "c4tc4tc4t"
     },
     {
         "account_id": 40013910,
@@ -306,6 +260,7 @@
     {
         "account_id": 41843638,
         "steam": "76561198002109366",
+        "twitch": "airuutv",
         "vk": "airuu"
     },
     {
@@ -317,24 +272,17 @@
     {
         "account_id": 48594480,
         "facebook": "anwei.ng.31",
-        "steam": "76561198008860208"
+        "steam": "76561198008860208",
+        "twitter": "xsilearnn"
     },
     {
         "account_id": 48823667,
         "steam": "76561198009089395"
     },
     {
-        "account_id": 49317728,
-        "facebook": "keepingitKyle",
-        "instagram": "kylefreedman",
-        "reddit": "melonzz",
-        "steam": "76561198009583456",
-        "twitch": "keepingitKyle",
-        "twitter": "keepingitKyle"
-    },
-    {
         "account_id": 50580004,
         "steam": "76561198010845732",
+        "twitch": "Xibbe",
         "twitter": "Xibbe"
     },
     {
@@ -351,18 +299,6 @@
     {
         "account_id": 51775783,
         "steam": "76561198012041511"
-    },
-    {
-        "account_id": 51836201,
-        "steam": "76561198012101929",
-        "twitter": "sm1leydota",
-        "vk": "id14761581"
-    },
-    {
-        "account_id": 52309044,
-        "steam": "76561198012574772",
-        "twitter": "mysmoon",
-        "vk": "mysmoon"
     },
     {
         "account_id": 53178236,
@@ -399,6 +335,13 @@
         "twitch": "gorgc",
         "twitter": "Gorgc",
         "youtube": "UCPkaARl89RCckNE_D7tj-aA"
+    },
+    {
+        "account_id": 57578110,
+        "instagram": "blackarxangel",
+        "steam": "76561198017843838",
+        "twitch": "blackarhangel",
+        "vk": "blackarxangelfp"
     },
     {
         "account_id": 58134384,
@@ -455,19 +398,17 @@
         "twitch": "exotic_deer"
     },
     {
+        "account_id": 63703276,
+        "steam": "76561198023969004",
+        "twitter": "goddamdota",
+        "vk": "hidden520"
+    },
+    {
         "account_id": 64444715,
         "facebook": "tipekdota",
         "steam": "76561198024710443",
         "twitch": "tipekdotaa",
         "twitter": "tipekdota"
-    },
-    {
-        "account_id": 65674469,
-        "facebook": "therencedota",
-        "instagram": "therencecf",
-        "steam": "76561198025940197",
-        "twitch": "ttherence",
-        "twitter": "therencedota"
     },
     {
         "account_id": 66228684,
@@ -490,7 +431,8 @@
     },
     {
         "account_id": 69594408,
-        "steam": "76561198029860136"
+        "steam": "76561198029860136",
+        "vk": "ckjke"
     },
     {
         "account_id": 70388657,
@@ -523,13 +465,10 @@
         "steam": "76561198032422095"
     },
     {
-        "account_id": 72312627,
-        "facebook": "LiquidMATUMBAMAN",
-        "instagram": "igmatumba",
-        "reddit": "MATUMBAMAN",
-        "steam": "76561198032578355",
-        "twitch": "MATUMBAMAN",
-        "twitter": "MATUMBAMAN"
+        "account_id": 72393079,
+        "steam": "76561198032658807",
+        "twitch": "mannikofc",
+        "vk": "mannikfanpage"
     },
     {
         "account_id": 73401082,
@@ -566,13 +505,6 @@
         "account_id": 75390186,
         "steam": "76561198035655914",
         "twitter": "barrydota"
-    },
-    {
-        "account_id": 75750590,
-        "instagram": "j4m34",
-        "steam": "76561198036016318",
-        "twitter": "j4Dota_",
-        "vk": "j4page"
     },
     {
         "account_id": 76173488,
@@ -731,12 +663,6 @@
         "vk": "id139186817"
     },
     {
-        "account_id": 86576108,
-        "steam": "76561198046841836",
-        "twitch": "ouker",
-        "twitter": "oukerdota"
-    },
-    {
         "account_id": 86698277,
         "instagram": "33dota",
         "steam": "76561198046964005",
@@ -793,6 +719,15 @@
         "twitch": "peterpandam",
         "twitter": "Peterpandam",
         "youtube": "peterpandam"
+    },
+    {
+        "account_id": 86738694,
+        "facebook": "Max-qojqva-Broecker-299831794099650",
+        "instagram": "qojqva_max",
+        "reddit": "qojqva",
+        "steam": "76561198047004422",
+        "twitch": "qojqva",
+        "twitter": "Qojqva1"
     },
     {
         "account_id": 86741690,
@@ -894,12 +829,8 @@
         "account_id": 86850560,
         "facebook": "wijdota",
         "steam": "76561198047116288",
-        "twitch": "wijdota"
-    },
-    {
-        "account_id": 86870856,
-        "steam": "76561198047136584",
-        "twitter": "chshrctplays"
+        "twitch": "wijdota",
+        "twitter": "wijnico"
     },
     {
         "account_id": 86953414,
@@ -942,15 +873,6 @@
         "youtube": "UCRZuU4JKqu-V2UrIcrjm_fg"
     },
     {
-        "account_id": 87196890,
-        "facebook": "1437tv",
-        "instagram": "1437.x",
-        "steam": "76561198047462618",
-        "twitch": "1437",
-        "twitter": "1437_MT8",
-        "youtube": "1437tv"
-    },
-    {
         "account_id": 87278757,
         "facebook": "OfficialPuppey",
         "instagram": "puppeydota",
@@ -988,13 +910,6 @@
         "twitter": "jeyostyle"
     },
     {
-        "account_id": 87586992,
-        "steam": "76561198047852720",
-        "twitch": "gthemall",
-        "twitter": "GTHEMALL",
-        "vk": "god_fanpage"
-    },
-    {
         "account_id": 88153289,
         "facebook": "kauee00",
         "instagram": "camucikaue",
@@ -1002,13 +917,13 @@
         "twitter": "dotadunha"
     },
     {
-        "account_id": 88553213,
-        "facebook": "chuanwong",
-        "instagram": "chuanwong9",
-        "steam": "76561198048818941",
-        "twitch": "chuan_ig",
-        "twitter": "ChuaNWong99",
-        "weibo": "chuan967"
+        "account_id": 88271237,
+        "facebook": "7ckngmaddota",
+        "instagram": "ceb_dota",
+        "reddit": "7ckngmad",
+        "steam": "76561198048536965",
+        "twitch": "7ckngmad",
+        "twitter": "ceb"
     },
     {
         "account_id": 88611330,
@@ -1096,22 +1011,14 @@
     },
     {
         "account_id": 90365989,
-        "steam": "76561198050631717"
+        "steam": "76561198050631717",
+        "vk": "id94406228"
     },
     {
         "account_id": 90423751,
         "steam": "76561198050689479",
         "twitter": "Bignumdota",
         "vk": "bignumdota2"
-    },
-    {
-        "account_id": 91064780,
-        "instagram": "flydota",
-        "steam": "76561198051330508",
-        "twitch": "awfdota",
-        "twitter": "flydota",
-        "vk": "tsfly",
-        "youtube": "ALWAYSWANNAFLYDOTA"
     },
     {
         "account_id": 91364275,
@@ -1161,13 +1068,6 @@
         "weibo": "3977064358"
     },
     {
-        "account_id": 91654584,
-        "facebook": "Kim0Lmighty",
-        "instagram": "xctn.leumik",
-        "steam": "76561198051920312",
-        "twitter": "XctNKim0"
-    },
-    {
         "account_id": 91701543,
         "steam": "76561198051967271",
         "twitch": "goldenstardota",
@@ -1185,7 +1085,7 @@
         "account_id": 91741256,
         "steam": "76561198052006984",
         "twitch": "yarintheslayer",
-        "twitter": "yarintheslayer"
+        "twitter": "yarindota2"
     },
     {
         "account_id": 91971075,
@@ -1236,6 +1136,11 @@
         "twitter": "masterminddota"
     },
     {
+        "account_id": 92487440,
+        "steam": "76561198052753168",
+        "vk": "vazyathe"
+    },
+    {
         "account_id": 92590479,
         "steam": "76561198052856207",
         "weibo": "2361834552"
@@ -1278,19 +1183,24 @@
         "steam": "76561198053555092"
     },
     {
-        "account_id": 93473848,
-        "instagram": "madendota",
-        "steam": "76561198053739576",
-        "twitch": "madendota",
-        "twitter": "MadenDota",
-        "vk": "madendota"
-    },
-    {
         "account_id": 93618577,
         "instagram": "misterbzm",
         "steam": "76561198053884305",
         "twitch": "bzmdota_",
         "twitter": "bzmdota"
+    },
+    {
+        "account_id": 93817671,
+        "steam": "76561198054083399",
+        "twitter": "maladych",
+        "vk": "public210209865"
+    },
+    {
+        "account_id": 93845249,
+        "instagram": "wuiter",
+        "steam": "76561198054110977",
+        "twitch": "wuiter",
+        "twitter": "wuiterdota"
     },
     {
         "account_id": 93954809,
@@ -1312,6 +1222,15 @@
         "twitter": "fnggshka",
         "vk": "abfng",
         "youtube": "AloneFoxy"
+    },
+    {
+        "account_id": 94054712,
+        "facebook": "topson.gg",
+        "instagram": "topson.gg",
+        "steam": "76561198054320440",
+        "twitch": "topsonous",
+        "twitter": "TopsonDota",
+        "youtube": "UCCnILYoBNuR4qaUOynGWzRg"
     },
     {
         "account_id": 94155156,
@@ -1336,7 +1255,7 @@
         "facebook": "KARL-113654694106545",
         "instagram": "keyemjey",
         "steam": "76561198054547660",
-        "twitter": "keyemjey"
+        "twitter": "KarlDota07"
     },
     {
         "account_id": 94296097,
@@ -1420,20 +1339,20 @@
         "youtube": "2lat3now"
     },
     {
+        "account_id": 96183976,
+        "instagram": "naivedoto",
+        "steam": "76561198056449704",
+        "twitch": "naivedoto",
+        "twitter": "naive_dota",
+        "vk": "dota2naive"
+    },
+    {
         "account_id": 96189126,
         "instagram": "wtfkaelownage",
         "steam": "76561198056454854",
         "twitch": "ark_dota",
         "twitter": "just_Ark",
         "vk": "arkfp"
-    },
-    {
-        "account_id": 96196828,
-        "instagram": "633_stas",
-        "steam": "76561198056462556",
-        "twitch": "bzzisperfect",
-        "twitter": "BZZZisperfect",
-        "vk": "stas633"
     },
     {
         "account_id": 96429099,
@@ -1463,23 +1382,9 @@
         "twitter": "Rayuurdota"
     },
     {
-        "account_id": 97235629,
-        "facebook": "aik.yang.3",
-        "steam": "76561198057501357",
-        "twitch": "aikster1"
-    },
-    {
         "account_id": 97366926,
         "steam": "76561198057632654",
         "twitter": "Brn_Flash"
-    },
-    {
-        "account_id": 97577101,
-        "instagram": "sheepsticked",
-        "steam": "76561198057842829",
-        "twitch": "sheepsticked",
-        "twitter": "sheepsticked",
-        "youtube": "sheepsticked"
     },
     {
         "account_id": 97590558,
@@ -1500,25 +1405,10 @@
         "youtube": "UCwXx5xeZ2BPRnSEeAw-h-YQ"
     },
     {
-        "account_id": 97676580,
-        "facebook": "Neqroman-809830369055967",
-        "steam": "76561198057942308",
-        "twitch": "Neqromandota",
-        "twitter": "neqroman"
-    },
-    {
         "account_id": 98167706,
         "steam": "76561198058433434",
         "twitch": "dnzshkaa",
         "twitter": "dnzdota"
-    },
-    {
-        "account_id": 98172857,
-        "facebook": "mzik0",
-        "instagram": "milanggq",
-        "steam": "76561198058438585",
-        "twitch": "milandota",
-        "twitter": "milandota2"
     },
     {
         "account_id": 98609497,
@@ -1574,13 +1464,13 @@
         "facebook": "SkiterDota",
         "instagram": "oliverskiterdotes",
         "steam": "76561198060324070",
-        "twitch": "oliverdota2",
+        "twitch": "skiter_mp4",
         "twitter": "skiter"
     },
     {
         "account_id": 100175472,
         "facebook": "ztokingGG",
-        "instagram": "ztokinggg",
+        "instagram": "xxtok_",
         "steam": "76561198060441200",
         "twitch": "ztoking",
         "twitter": "ztokdota"
@@ -1626,7 +1516,8 @@
     },
     {
         "account_id": 100594231,
-        "facebook": "skemdota",
+        "facebook": "skemmmm",
+        "instagram": "skemdota",
         "steam": "76561198060859959",
         "twitter": "skemdota2"
     },
@@ -1639,6 +1530,7 @@
     {
         "account_id": 100616105,
         "facebook": "alvizobryle",
+        "instagram": "brylealvizo",
         "steam": "76561198060881833",
         "twitter": "brylealvizo"
     },
@@ -1758,11 +1650,6 @@
         "steam": "76561198062391733"
     },
     {
-        "account_id": 102644565,
-        "steam": "76561198062910293",
-        "weibo": "5972261982"
-    },
-    {
         "account_id": 102811031,
         "steam": "76561198063076759",
         "twitch": "xemistry"
@@ -1809,7 +1696,9 @@
     },
     {
         "account_id": 103910993,
-        "steam": "76561198064176721"
+        "steam": "76561198064176721",
+        "twitch": "lil_plebbb",
+        "twitter": "StoyanKostov4"
     },
     {
         "account_id": 103940975,
@@ -1824,7 +1713,8 @@
     {
         "account_id": 104275965,
         "steam": "76561198064541693",
-        "twitch": "jubeigaaaa"
+        "twitch": "jubeigaaaa",
+        "twitter": "jubeidota2"
     },
     {
         "account_id": 104334048,
@@ -1849,7 +1739,7 @@
     },
     {
         "account_id": 104512126,
-        "facebook": "nodota",
+        "facebook": "macdotaa",
         "steam": "76561198064777854",
         "twitter": "macdotes"
     },
@@ -1882,11 +1772,6 @@
         "steam": "76561198065267199"
     },
     {
-        "account_id": 105040222,
-        "steam": "76561198065305950",
-        "vk": "klmcr"
-    },
-    {
         "account_id": 105045291,
         "facebook": "Thiolicor",
         "instagram": "thiolicor",
@@ -1894,6 +1779,14 @@
         "twitch": "thiolicor",
         "twitter": "Thiolicordota",
         "youtube": "UCols9rzGPU6A6Q5UnEtRPgA"
+    },
+    {
+        "account_id": 105178768,
+        "facebook": "BananaSlamJamma",
+        "steam": "76561198065444496",
+        "twitch": "bananaslamjamma",
+        "twitter": "BananaSlamJamma",
+        "youtube": "BananaSlamJamma"
     },
     {
         "account_id": 105248644,
@@ -1906,7 +1799,7 @@
     },
     {
         "account_id": 105610776,
-        "facebook": "shanksdotes",
+        "facebook": "shanks0101",
         "steam": "76561198065876504",
         "twitter": "shanksdota2"
     },
@@ -1975,18 +1868,14 @@
         "account_id": 107227595,
         "facebook": "NOCHANCEDOTA",
         "steam": "76561198067493323",
-        "twitch": "no_chanc3"
+        "twitch": "no_chanc3",
+        "youtube": "NOChanc3"
     },
     {
         "account_id": 107579895,
         "steam": "76561198067845623",
         "twitch": "fcrdota",
         "twitter": "fcrdota"
-    },
-    {
-        "account_id": 107803494,
-        "steam": "76561198068069222",
-        "weibo": "1019594145"
     },
     {
         "account_id": 107855479,
@@ -2073,6 +1962,11 @@
         "twitch": "greedydota"
     },
     {
+        "account_id": 110142194,
+        "facebook": "100001219563540",
+        "steam": "76561198070407922"
+    },
+    {
         "account_id": 110228930,
         "steam": "76561198070494658"
     },
@@ -2150,7 +2044,8 @@
     },
     {
         "account_id": 112179882,
-        "steam": "76561198072445610"
+        "steam": "76561198072445610",
+        "vk": "sf_ult"
     },
     {
         "account_id": 112377459,
@@ -2174,6 +2069,7 @@
     },
     {
         "account_id": 112531417,
+        "facebook": "abeng.dicdican",
         "steam": "76561198072797145"
     },
     {
@@ -2216,8 +2112,10 @@
     },
     {
         "account_id": 113619848,
+        "instagram": "lod1ne",
         "steam": "76561198073885576",
-        "twitch": "lodine"
+        "twitch": "lodine",
+        "twitter": "lod1ne"
     },
     {
         "account_id": 113825167,
@@ -2245,7 +2143,7 @@
     {
         "account_id": 114559048,
         "steam": "76561198074824776",
-        "vk": "axmoaxmo"
+        "vk": "axmo1"
     },
     {
         "account_id": 114585639,
@@ -2253,6 +2151,19 @@
         "twitch": "lil_nickdota",
         "twitter": "LilNickdota",
         "youtube": "UCpwrCleQym5eIcywrOlc-UQ"
+    },
+    {
+        "account_id": 114596500,
+        "steam": "76561198074862228",
+        "vk": "avowedly"
+    },
+    {
+        "account_id": 114619230,
+        "instagram": "_crystallize_99",
+        "steam": "76561198074884958",
+        "twitch": "crystallize",
+        "twitter": "crystallize99",
+        "vk": "crystallizedota"
     },
     {
         "account_id": 114645455,
@@ -2304,6 +2215,7 @@
     },
     {
         "account_id": 116080282,
+        "facebook": "ArgiusDota",
         "steam": "76561198076346010"
     },
     {
@@ -2346,9 +2258,9 @@
     },
     {
         "account_id": 116776337,
-        "facebook": "407393842756429?fref=ts",
+        "facebook": "407393842756429",
         "steam": "76561198077042065",
-        "twitch": "ifritdota2",
+        "twitch": "ifrits",
         "twitter": "ifritdota2"
     },
     {
@@ -2391,6 +2303,7 @@
         "account_id": 117089283,
         "facebook": "Pandanxn",
         "steam": "76561198077355011",
+        "twitch": "pandadota_",
         "twitter": "dota2_panda"
     },
     {
@@ -2456,12 +2369,6 @@
         "twitter": "qupedota"
     },
     {
-        "account_id": 118134220,
-        "steam": "76561198078399948",
-        "twitter": "Faith_bian",
-        "weibo": "3816501033"
-    },
-    {
         "account_id": 118207269,
         "facebook": "swordoto",
         "steam": "76561198078472997",
@@ -2485,7 +2392,8 @@
     {
         "account_id": 118419316,
         "steam": "76561198078685044",
-        "twitch": "magiskush"
+        "twitch": "magiskush",
+        "vk": "magiskush"
     },
     {
         "account_id": 118559150,
@@ -2572,13 +2480,8 @@
     },
     {
         "account_id": 121591254,
+        "facebook": "ZxcaDota",
         "steam": "76561198081856982"
-    },
-    {
-        "account_id": 121769650,
-        "facebook": "Michał-Nisha-Jankowski-1555358894753102",
-        "steam": "76561198082035378",
-        "twitter": "nishadota"
     },
     {
         "account_id": 121833213,
@@ -2611,10 +2514,9 @@
         "steam": "76561198082910642"
     },
     {
-        "account_id": 122867857,
-        "facebook": "jamesbumbs",
-        "instagram": "jamesbumbz",
-        "steam": "76561198083133585"
+        "account_id": 123023873,
+        "steam": "76561198083289601",
+        "twitch": "squad1x"
     },
     {
         "account_id": 123051238,
@@ -2662,20 +2564,6 @@
         "weibo": "2786313774"
     },
     {
-        "account_id": 125814840,
-        "facebook": "Princeedota",
-        "steam": "76561198086080568",
-        "twitch": "princedotaa",
-        "twitter": "princedotaa"
-    },
-    {
-        "account_id": 125814840,
-        "facebook": "Princeedota",
-        "steam": "76561198086080568",
-        "twitch": "princedotaa",
-        "twitter": "princedotaa"
-    },
-    {
         "account_id": 125845797,
         "facebook": "Valquiriadota2",
         "steam": "76561198086111525",
@@ -2684,14 +2572,10 @@
     {
         "account_id": 125995177,
         "facebook": "100063712839836",
+        "instagram": "gardixan",
         "steam": "76561198086260905",
+        "twitch": "gardickxan",
         "twitter": "Gard1ckDara"
-    },
-    {
-        "account_id": 126174633,
-        "steam": "76561198086440361",
-        "twitch": "s3xyfat",
-        "twitter": "sexydota"
     },
     {
         "account_id": 126212866,
@@ -2718,6 +2602,16 @@
         "steam": "76561198086518801"
     },
     {
+        "account_id": 126355052,
+        "steam": "76561198086620780",
+        "twitch": "xxxelamanxxx",
+        "vk": "turbo_page"
+    },
+    {
+        "account_id": 126397214,
+        "steam": "76561198086662942"
+    },
+    {
         "account_id": 126417273,
         "facebook": "AhJit-2004881129734926",
         "instagram": "ahjit1998",
@@ -2742,6 +2636,7 @@
     },
     {
         "account_id": 126702445,
+        "instagram": "illusionq21",
         "steam": "76561198086968173",
         "vk": "illusionqq"
     },
@@ -2774,6 +2669,7 @@
     {
         "account_id": 128071308,
         "steam": "76561198088337036",
+        "twitch": "vicoros",
         "vk": "vicoros"
     },
     {
@@ -2794,7 +2690,8 @@
     },
     {
         "account_id": 129071882,
-        "steam": "76561198089337610"
+        "steam": "76561198089337610",
+        "vk": "eineeine"
     },
     {
         "account_id": 129585121,
@@ -2819,6 +2716,10 @@
         "weibo": "5721204783"
     },
     {
+        "account_id": 130503714,
+        "steam": "76561198090769442"
+    },
+    {
         "account_id": 130801103,
         "instagram": "nongrata1337",
         "steam": "76561198091066831",
@@ -2831,7 +2732,7 @@
         "facebook": "4nalog",
         "instagram": "4nalogg",
         "steam": "76561198091569360",
-        "twitch": "4nalog",
+        "twitch": "analogdota",
         "twitter": "4nalog"
     },
     {
@@ -2897,7 +2798,8 @@
     {
         "account_id": 133167741,
         "facebook": "mrjeansdota",
-        "steam": "76561198093433469"
+        "steam": "76561198093433469",
+        "twitter": "JeanNatividad15"
     },
     {
         "account_id": 133558180,
@@ -3036,7 +2938,10 @@
     {
         "account_id": 138177198,
         "facebook": "VitalyDota2",
-        "steam": "76561198098442926"
+        "instagram": "vitalyyd",
+        "steam": "76561198098442926",
+        "twitch": "vitalyd8",
+        "twitter": "VitalyDota2"
     },
     {
         "account_id": 138543123,
@@ -3050,6 +2955,12 @@
         "steam": "76561198099123024",
         "twitter": "JackieThiay",
         "weibo": "7359780252"
+    },
+    {
+        "account_id": 138880576,
+        "steam": "76561198099146304",
+        "twitch": "davailamadota",
+        "twitter": "davailama"
     },
     {
         "account_id": 138880576,
@@ -3094,6 +3005,7 @@
     },
     {
         "account_id": 140288368,
+        "instagram": "tobidotes1",
         "steam": "76561198100554096",
         "twitch": "tobidotes",
         "twitter": "TobiDotes"
@@ -3103,12 +3015,6 @@
         "instagram": "tonyassaf1",
         "steam": "76561198100563280",
         "twitter": "no1obdota"
-    },
-    {
-        "account_id": 140666974,
-        "facebook": "kevinmanueljohan",
-        "instagram": "kevinmanueljohan",
-        "steam": "76561198100932702"
     },
     {
         "account_id": 140680642,
@@ -3171,10 +3077,15 @@
     },
     {
         "account_id": 145550466,
+        "instagram": "dubudota",
         "steam": "76561198105816194",
         "twitch": "dubudota",
         "twitter": "DubuDota",
         "youtube": "UCK1C6nGjd-gLX4K898wgNVw"
+    },
+    {
+        "account_id": 145957968,
+        "steam": "76561198106223696"
     },
     {
         "account_id": 146711951,
@@ -3222,12 +3133,6 @@
         "steam": "76561198109273996"
     },
     {
-        "account_id": 149486894,
-        "steam": "76561198109752622",
-        "twitter": "Sccc_CN",
-        "weibo": "5634860315"
-    },
-    {
         "account_id": 150588364,
         "steam": "76561198110854092"
     },
@@ -3243,6 +3148,7 @@
         "account_id": 150862738,
         "facebook": "yoweDotes",
         "steam": "76561198111128466",
+        "twitch": "yowe",
         "twitter": "yowedota",
         "youtube": "UCtJRNDzwuVXAI6OqcrVcfpg"
     },
@@ -3288,7 +3194,8 @@
     },
     {
         "account_id": 152168157,
-        "steam": "76561198112433885"
+        "steam": "76561198112433885",
+        "twitter": "OmaR_Mogh"
     },
     {
         "account_id": 152455523,
@@ -3303,7 +3210,7 @@
         "facebook": "gabbidoto",
         "instagram": "khimvillafuerte",
         "steam": "76561198112811187",
-        "twitch": "gabbidota",
+        "twitch": "gabbidoto",
         "twitter": "gabbidoto"
     },
     {
@@ -3368,11 +3275,12 @@
         "facebook": "MatthewDota",
         "instagram": "matthewdota",
         "steam": "76561198115598187",
-        "twitch": "matthewdota"
+        "twitch": "matthewdota",
+        "twitter": "MatthewDotaaa"
     },
     {
         "account_id": 155494381,
-        "facebook": "timtimrandrups",
+        "facebook": "timsdotaofficial",
         "instagram": "TimsDOTA",
         "steam": "76561198115760109",
         "twitter": "TimsDOTA",
@@ -3380,7 +3288,7 @@
     },
     {
         "account_id": 156029808,
-        "facebook": "bdzdota1",
+        "facebook": "barlodota2",
         "instagram": "bdzdota",
         "steam": "76561198116295536",
         "twitter": "BDzDOTA"
@@ -3418,7 +3326,8 @@
     },
     {
         "account_id": 158606677,
-        "steam": "76561198118872405"
+        "steam": "76561198118872405",
+        "twitter": "OwnedMeDota"
     },
     {
         "account_id": 158847773,
@@ -3430,8 +3339,7 @@
         "instagram": "rodjer_champ",
         "steam": "76561198119286646",
         "twitch": "rodjer",
-        "twitter": "rodjerdota",
-        "vk": "rodjerfanpage"
+        "twitter": "rodjerdota"
     },
     {
         "account_id": 160119017,
@@ -3444,7 +3352,15 @@
     },
     {
         "account_id": 161072811,
+        "facebook": "ryanrrl8",
         "steam": "76561198121338539"
+    },
+    {
+        "account_id": 161839895,
+        "instagram": "antareskv_",
+        "steam": "76561198122105623",
+        "twitch": "antaresss_",
+        "vk": "antaresoff"
     },
     {
         "account_id": 162077924,
@@ -3527,7 +3443,7 @@
         "facebook": "kamil.biktimirov.50",
         "instagram": "agressivech",
         "steam": "76561198125937156",
-        "twitch": "agressivechild",
+        "twitch": "sclkoma",
         "vk": "public194054907"
     },
     {
@@ -3548,7 +3464,8 @@
         "account_id": 167976729,
         "instagram": "yuragi_i",
         "steam": "76561198128242457",
-        "twitter": "Yuragii1"
+        "twitter": "Yuragii1",
+        "vk": "spacecrea1ed"
     },
     {
         "account_id": 168028715,
@@ -3590,46 +3507,45 @@
         "steam": "76561198129671443"
     },
     {
+        "account_id": 169416589,
+        "facebook": "100001073736750",
+        "steam": "76561198129682317"
+    },
+    {
         "account_id": 169672157,
         "steam": "76561198129937885"
-    },
-    {
-        "account_id": 170638230,
-        "steam": "76561198130903958"
-    },
-    {
-        "account_id": 170638230,
-        "steam": "76561198130903958"
     },
     {
         "account_id": 171211166,
         "steam": "76561198131476894"
     },
     {
+        "account_id": 171262902,
+        "instagram": "watsondoto",
+        "steam": "76561198131528630",
+        "twitch": "watsondoto",
+        "twitter": "watsondoto",
+        "vk": "watsondotoclub"
+    },
+    {
+        "account_id": 171347136,
+        "steam": "76561198131612864"
+    },
+    {
         "account_id": 171512414,
         "steam": "76561198131778142"
+    },
+    {
+        "account_id": 171597637,
+        "steam": "76561198131863365",
+        "twitter": "Nairman2",
+        "vk": "hannahdota"
     },
     {
         "account_id": 171627713,
         "steam": "76561198131893441",
         "twitch": "froogoss",
         "twitter": "froogoss"
-    },
-    {
-        "account_id": 171981096,
-        "instagram": "navi_magical",
-        "steam": "76561198132246824",
-        "twitch": "magical13",
-        "twitter": "magicaldota",
-        "vk": "magicaldota"
-    },
-    {
-        "account_id": 171981096,
-        "instagram": "navi_magical",
-        "steam": "76561198132246824",
-        "twitch": "magical13",
-        "twitter": "magicaldota",
-        "vk": "magicaldota"
     },
     {
         "account_id": 172099728,
@@ -3655,7 +3571,10 @@
     },
     {
         "account_id": 172739956,
-        "steam": "76561198133005684"
+        "instagram": "wangsolji",
+        "steam": "76561198133005684",
+        "twitch": "ssolji",
+        "twitter": "soneblossoms"
     },
     {
         "account_id": 173328149,
@@ -3667,6 +3586,12 @@
         "facebook": "Bobdotaa",
         "instagram": "Bobdotaaaaa",
         "steam": "76561198133644429"
+    },
+    {
+        "account_id": 173476224,
+        "facebook": "Eyyoudota",
+        "steam": "76561198133741952",
+        "twitter": "eyyoudota2"
     },
     {
         "account_id": 173812218,
@@ -3682,7 +3607,8 @@
         "facebook": "psg.lgd.bernaberna",
         "instagram": "19berna74",
         "steam": "76561198134237678",
-        "twitch": "bernardo1299"
+        "twitch": "bernardo1299",
+        "twitter": "HitinmunE"
     },
     {
         "account_id": 173978074,
@@ -3693,6 +3619,10 @@
     {
         "account_id": 174833121,
         "steam": "76561198135098849"
+    },
+    {
+        "account_id": 175104556,
+        "steam": "76561198135370284"
     },
     {
         "account_id": 175311897,
@@ -3743,7 +3673,8 @@
     {
         "account_id": 177203952,
         "steam": "76561198137469680",
-        "twitch": "yumalm"
+        "twitch": "yumalm",
+        "twitter": "yuma"
     },
     {
         "account_id": 177411785,
@@ -3751,12 +3682,6 @@
         "twitch": "daxak",
         "twitter": "daxakdota2",
         "vk": "daxakofficial"
-    },
-    {
-        "account_id": 177648913,
-        "steam": "76561198137914641",
-        "twitch": "ritsugamer",
-        "twitter": "ritsudota"
     },
     {
         "account_id": 177953305,
@@ -3771,6 +3696,13 @@
         "twitter": "MagE_Doto"
     },
     {
+        "account_id": 178638015,
+        "steam": "76561198138903743",
+        "twitch": "MantaQ",
+        "twitter": "MantisKZ",
+        "vk": "mantiskz"
+    },
+    {
         "account_id": 178692606,
         "steam": "76561198138958334",
         "twitch": "antohahahha",
@@ -3780,10 +3712,6 @@
         "account_id": 179313961,
         "steam": "76561198139579689",
         "weibo": "2362934135"
-    },
-    {
-        "account_id": 180012313,
-        "steam": "76561198140278041"
     },
     {
         "account_id": 180286184,
@@ -3826,6 +3754,10 @@
         "twitter": "lilArt44"
     },
     {
+        "account_id": 182325064,
+        "steam": "76561198142590792"
+    },
+    {
         "account_id": 182331313,
         "steam": "76561198142597041",
         "twitter": "fade_dota",
@@ -3853,9 +3785,14 @@
     },
     {
         "account_id": 184138153,
+        "instagram": "masaros87",
         "steam": "76561198144403881",
         "twitch": "masarosdota2",
         "twitter": "Masarosdota"
+    },
+    {
+        "account_id": 184620877,
+        "steam": "76561198144886605"
     },
     {
         "account_id": 184950344,
@@ -3868,7 +3805,7 @@
     },
     {
         "account_id": 185001854,
-        "facebook": "SexyeYogye-477761009460066",
+        "facebook": "SexyeYogye",
         "steam": "76561198145267582"
     },
     {
@@ -3908,10 +3845,6 @@
         "steam": "76561198147205422"
     },
     {
-        "account_id": 186977347,
-        "steam": "76561198147243075"
-    },
-    {
         "account_id": 187619311,
         "facebook": "samhdota",
         "steam": "76561198147885039"
@@ -3922,12 +3855,6 @@
         "steam": "76561198148024317",
         "twitter": "illias_dota",
         "vk": "kingslayer_vp"
-    },
-    {
-        "account_id": 187824320,
-        "steam": "76561198148090048",
-        "twitch": "kitrakdota2",
-        "twitter": "kitrakdota"
     },
     {
         "account_id": 188423794,
@@ -3971,7 +3898,9 @@
     {
         "account_id": 191290281,
         "facebook": "Lumieredoto",
-        "steam": "76561198151556009"
+        "steam": "76561198151556009",
+        "twitch": "lum1eredota",
+        "twitter": "Lumieredota"
     },
     {
         "account_id": 191362875,
@@ -3983,6 +3912,14 @@
     {
         "account_id": 191458152,
         "steam": "76561198151723880"
+    },
+    {
+        "account_id": 191698197,
+        "steam": "76561198151963925"
+    },
+    {
+        "account_id": 191698197,
+        "steam": "76561198151963925"
     },
     {
         "account_id": 192120253,
@@ -4001,6 +3938,10 @@
         "twitter": "ragingpotatwo"
     },
     {
+        "account_id": 192981126,
+        "steam": "76561198153246854"
+    },
+    {
         "account_id": 193564777,
         "steam": "76561198153830505",
         "twitch": "otakerdota",
@@ -4010,6 +3951,7 @@
         "account_id": 193815691,
         "facebook": "QDota2",
         "steam": "76561198154081419",
+        "twitch": "qdotaz",
         "twitter": "MekchaiWorawit"
     },
     {
@@ -4041,7 +3983,10 @@
     },
     {
         "account_id": 195108598,
+        "instagram": "noticed_dota",
         "steam": "76561198155374326",
+        "twitch": "noticed_dota2",
+        "twitter": "noticeddota",
         "vk": "noticeddota"
     },
     {
@@ -4067,22 +4012,11 @@
         "twitter": "FocusDota"
     },
     {
-        "account_id": 196493853,
-        "steam": "76561198156759581",
-        "weibo": "5393111749"
-    },
-    {
         "account_id": 196878136,
         "steam": "76561198157143864",
         "twitch": "kataomi_",
+        "twitter": "Kataomi__",
         "vk": "kataomithegod"
-    },
-    {
-        "account_id": 196931374,
-        "facebook": "btn1412",
-        "steam": "76561198157197102",
-        "twitch": "btn1412",
-        "youtube": "DHDota2"
     },
     {
         "account_id": 197547532,
@@ -4093,8 +4027,7 @@
         "account_id": 197574429,
         "facebook": "kxydota",
         "steam": "76561198157840157",
-        "twitch": "fakerdota07",
-        "twitter": "EliseoTemochex"
+        "twitch": "fakerdota07"
     },
     {
         "account_id": 197849259,
@@ -4104,7 +4037,7 @@
         "account_id": 198035908,
         "steam": "76561198158301636",
         "twitch": "lowkezdota",
-        "vk": "id91893052"
+        "vk": "lo4kezpudge"
     },
     {
         "account_id": 198161112,
@@ -4116,8 +4049,8 @@
     },
     {
         "account_id": 198631761,
-        "steam": "76561198158897489",
-        "youtube": "UCjT0g5xVSPDhAmV1VjKtW-g"
+        "facebook": "100015629613997",
+        "steam": "76561198158897489"
     },
     {
         "account_id": 199222238,
@@ -4125,8 +4058,11 @@
         "weibo": "6358691316"
     },
     {
-        "account_id": 200362560,
-        "steam": "76561198160628288"
+        "account_id": 201358612,
+        "facebook": "Michał-Nisha-Jankowski-1555358894753102",
+        "steam": "76561198161624340",
+        "twitch": "nishadota",
+        "twitter": "nishadota"
     },
     {
         "account_id": 202217968,
@@ -4138,6 +4074,12 @@
         "instagram": "daad.gg",
         "steam": "76561198162730004",
         "twitter": "DaaDota"
+    },
+    {
+        "account_id": 203351055,
+        "steam": "76561198163616783",
+        "twitter": "AbdimalikSailau",
+        "vk": "malikdoto"
     },
     {
         "account_id": 203851397,
@@ -4168,6 +4110,11 @@
         "youtube": "UCPMXhL6klF02tljf21RmGtQ"
     },
     {
+        "account_id": 206379758,
+        "facebook": "100003688931722",
+        "steam": "76561198166645486"
+    },
+    {
         "account_id": 206642367,
         "facebook": "100001404854544",
         "instagram": "ghostdota98",
@@ -4196,6 +4143,8 @@
     },
     {
         "account_id": 209287073,
+        "facebook": "2manyretardsfck",
+        "instagram": "khishitbatt",
         "steam": "76561198169552801"
     },
     {
@@ -4221,7 +4170,7 @@
     },
     {
         "account_id": 212560917,
-        "facebook": "Kokzdoto",
+        "facebook": "auhsojzxc",
         "steam": "76561198172826645"
     },
     {
@@ -4234,15 +4183,11 @@
     {
         "account_id": 214853734,
         "steam": "76561198175119462",
-        "vk": "fogasclub"
+        "vk": "fogasdota"
     },
     {
         "account_id": 216067541,
         "steam": "76561198176333269"
-    },
-    {
-        "account_id": 217386639,
-        "steam": "76561198177652367"
     },
     {
         "account_id": 217472313,
@@ -4255,7 +4200,8 @@
     {
         "account_id": 217599053,
         "instagram": "askold.gold",
-        "steam": "76561198177864781"
+        "steam": "76561198177864781",
+        "vk": "temiraliev2000"
     },
     {
         "account_id": 218367241,
@@ -4394,6 +4340,10 @@
         "vk": "dreamdoto"
     },
     {
+        "account_id": 241884166,
+        "steam": "76561198202149894"
+    },
+    {
         "account_id": 242697694,
         "facebook": "Kingteka-1008487012565372",
         "instagram": "iamkingteka",
@@ -4435,14 +4385,9 @@
     },
     {
         "account_id": 248388120,
-        "facebook": "krisna.krisna.33631",
-        "instagram": "tridayap",
+        "facebook": "MamangDaya321",
         "steam": "76561198208653848",
         "youtube": "UChx5a4hoDY-Urbnxsvf5W8w"
-    },
-    {
-        "account_id": 248941611,
-        "steam": "76561198209207339"
     },
     {
         "account_id": 249651648,
@@ -4500,7 +4445,7 @@
         "instagram": "moiezlin",
         "steam": "76561198217963812",
         "twitch": "symdoto",
-        "twitter": "alliancesym"
+        "twitter": "symdota"
     },
     {
         "account_id": 257945712,
@@ -4522,6 +4467,17 @@
     {
         "account_id": 262367336,
         "steam": "76561198222633064"
+    },
+    {
+        "account_id": 262838756,
+        "instagram": "kordan_dota",
+        "steam": "76561198223104484",
+        "twitter": "kordan_dota"
+    },
+    {
+        "account_id": 269930820,
+        "steam": "76561198230196548",
+        "vk": "dodren"
     },
     {
         "account_id": 274078636,
@@ -4578,6 +4534,11 @@
         "steam": "76561198254215856"
     },
     {
+        "account_id": 294135421,
+        "steam": "76561198254401149",
+        "vk": "id174626266"
+    },
+    {
         "account_id": 295697470,
         "instagram": "immersion45",
         "steam": "76561198255963198",
@@ -4594,22 +4555,11 @@
         "vk": "id80696287"
     },
     {
-        "account_id": 297312417,
-        "instagram": "destrice_dota",
-        "steam": "76561198257578145",
-        "twitch": "destricetv",
-        "twitter": "Destrice_"
-    },
-    {
         "account_id": 298683250,
         "instagram": "duskoboranijasevic",
         "steam": "76561198258948978",
         "twitch": "boranijaa",
         "twitter": "boranijadota"
-    },
-    {
-        "account_id": 299213834,
-        "steam": "76561198259479562"
     },
     {
         "account_id": 299961237,
@@ -4635,6 +4585,13 @@
         "vk": "collapse1221"
     },
     {
+        "account_id": 303099423,
+        "instagram": "sadtomat_",
+        "steam": "76561198263365151",
+        "twitch": "sadtomat",
+        "vk": "sadtomatdoto"
+    },
+    {
         "account_id": 303673743,
         "facebook": "Cucahook-841133562942489",
         "steam": "76561198263939471"
@@ -4643,6 +4600,14 @@
         "account_id": 308163407,
         "facebook": "littleboy.dota2",
         "steam": "76561198268429135"
+    },
+    {
+        "account_id": 311360822,
+        "instagram": "ana_than99",
+        "steam": "76561198271626550",
+        "twitch": "anathan",
+        "twitter": "anadota99",
+        "weibo": "5979350617"
     },
     {
         "account_id": 312435408,
@@ -4708,8 +4673,7 @@
         "account_id": 321580662,
         "instagram": "yatoro104",
         "steam": "76561198281846390",
-        "twitch": "YatoroRain",
-        "vk": "Yatoro_gxd"
+        "twitch": "YatoroRain"
     },
     {
         "account_id": 323792491,
@@ -4718,9 +4682,16 @@
     },
     {
         "account_id": 324277900,
-        "facebook": "poyskieqt",
+        "facebook": "yopajdota",
         "steam": "76561198284543628",
         "twitter": "YopajDota"
+    },
+    {
+        "account_id": 326327879,
+        "instagram": "xsvamp1re",
+        "steam": "76561198286593607",
+        "twitch": "xsvamp1re",
+        "vk": "xsvamp1re"
     },
     {
         "account_id": 329076390,
@@ -4737,11 +4708,6 @@
         "steam": "76561198290243139",
         "twitch": "high_shaggy",
         "twitter": "cvulpus"
-    },
-    {
-        "account_id": 330191088,
-        "steam": "76561198290456816",
-        "twitter": "neahdota"
     },
     {
         "account_id": 331855530,
@@ -4768,18 +4734,16 @@
         "account_id": 339235645,
         "facebook": "100063464419914",
         "instagram": "pkzs999",
-        "steam": "76561198299501373"
-    },
-    {
-        "account_id": 342340720,
-        "steam": "76561198302606448"
+        "steam": "76561198299501373",
+        "twitch": "pkzs999",
+        "twitter": "pakazgod"
     },
     {
         "account_id": 343084576,
-        "facebook": "hustladota",
+        "facebook": "narmandoto",
         "instagram": "narman_nasf",
         "steam": "76561198303350304",
-        "twitch": "hustladotes"
+        "twitch": "narmandoto"
     },
     {
         "account_id": 344475448,
@@ -4813,7 +4777,21 @@
     },
     {
         "account_id": 346392468,
-        "steam": "76561198306658196"
+        "steam": "76561198306658196",
+        "vk": "nikita557"
+    },
+    {
+        "account_id": 346412363,
+        "instagram": "aribeonaty",
+        "steam": "76561198306678091",
+        "twitch": "aribeonaty",
+        "twitter": "Aribeonaty"
+    },
+    {
+        "account_id": 348703642,
+        "steam": "76561198308969370",
+        "twitch": "cardi_bika",
+        "vk": "public162313041"
     },
     {
         "account_id": 349310876,
@@ -4852,7 +4830,7 @@
         "account_id": 353424606,
         "facebook": "harunaxz",
         "steam": "76561198313690334",
-        "twitter": "hawunax"
+        "twitter": "karmag0d_"
     },
     {
         "account_id": 353479702,
@@ -4908,6 +4886,11 @@
         "steam": "76561198328210889"
     },
     {
+        "account_id": 368917218,
+        "steam": "76561198329182946",
+        "twitch": "laymelayme"
+    },
+    {
         "account_id": 369751488,
         "steam": "76561198330017216"
     },
@@ -4946,6 +4929,11 @@
     {
         "account_id": 381714118,
         "steam": "76561198341979846"
+    },
+    {
+        "account_id": 383867949,
+        "facebook": "100069952415894",
+        "steam": "76561198344133677"
     },
     {
         "account_id": 385295772,
@@ -4987,11 +4975,16 @@
     },
     {
         "account_id": 392385140,
+        "facebook": "100066511806477",
         "steam": "76561198352650868"
     },
     {
         "account_id": 394879200,
         "steam": "76561198355144928"
+    },
+    {
+        "account_id": 397250058,
+        "steam": "76561198357515786"
     },
     {
         "account_id": 397574220,
@@ -5021,7 +5014,7 @@
     },
     {
         "account_id": 401653350,
-        "facebook": "YoungGodDOTA.II",
+        "facebook": "LevixLagaret",
         "steam": "76561198361919078"
     },
     {
@@ -5031,6 +5024,14 @@
         "steam": "76561198362058302",
         "twitch": "taiga_",
         "twitter": "Taigadota"
+    },
+    {
+        "account_id": 404150207,
+        "instagram": "y0ndlul",
+        "steam": "76561198364415935",
+        "twitch": "y0nd",
+        "vk": "y0ndfp",
+        "youtube": "y0ndtv"
     },
     {
         "account_id": 407321629,
@@ -5043,7 +5044,7 @@
         "facebook": "sacreddota",
         "instagram": "sacredoto",
         "steam": "76561198368995471",
-        "twitter": "sacredota"
+        "twitter": "sacredoto"
     },
     {
         "account_id": 412413765,
@@ -5068,6 +5069,10 @@
         "steam": "76561198373605727"
     },
     {
+        "account_id": 417512732,
+        "steam": "76561198377778460"
+    },
+    {
         "account_id": 426764440,
         "facebook": "yahadota",
         "steam": "76561198387030168",
@@ -5082,7 +5087,8 @@
         "account_id": 431770905,
         "instagram": "torontotokyo17",
         "steam": "76561198392036633",
-        "twitch": "TORONTOTOKYO17"
+        "twitch": "TORONTOTOKYO17",
+        "twitter": "torontotokyomio"
     },
     {
         "account_id": 436812009,
@@ -5094,10 +5100,6 @@
         "twitch": "re1bl",
         "twitter": "1xSdnh3gnc1fzmF",
         "vk": "public196909199"
-    },
-    {
-        "account_id": 451317002,
-        "steam": "76561198411582730"
     },
     {
         "account_id": 452376367,
@@ -5133,6 +5135,10 @@
         "vk": "gpkdoto"
     },
     {
+        "account_id": 481160435,
+        "steam": "76561198441426163"
+    },
+    {
         "account_id": 481303474,
         "steam": "76561198441569202",
         "weibo": "2598860674"
@@ -5153,6 +5159,10 @@
         "vk": "depressed___kid"
     },
     {
+        "account_id": 869593848,
+        "steam": "76561198829859576"
+    },
+    {
         "account_id": 874542740,
         "instagram": "yellowsflash",
         "steam": "76561198834808468",
@@ -5161,13 +5171,19 @@
     },
     {
         "account_id": 876110702,
-        "steam": "76561198836376430"
+        "steam": "76561198836376430",
+        "vk": "ergonxd"
     },
     {
         "account_id": 878212255,
         "facebook": "Isaac.asdfkdotto09",
-        "instagram": "drakeeldoto",
+        "instagram": "drakeeldota",
         "steam": "76561198838477983"
+    },
+    {
+        "account_id": 887657854,
+        "steam": "76561198847923582",
+        "vk": "samsam6"
     },
     {
         "account_id": 898455820,
@@ -5203,14 +5219,14 @@
         "twitter": "jupiterhane"
     },
     {
+        "account_id": 957534547,
+        "steam": "76561198917800275"
+    },
+    {
         "account_id": 1008365008,
         "instagram": "amindota_",
         "steam": "76561198968630736",
         "twitter": "pimpolhodota"
-    },
-    {
-        "account_id": 1027442762,
-        "steam": "76561198987708490"
     },
     {
         "account_id": 1031547092,
@@ -5241,7 +5257,7 @@
     {
         "account_id": 1071332616,
         "steam": "76561199031598344",
-        "twitch": "bgodthree",
+        "twitch": "bgodbgodbgod",
         "twitter": "bgod_dota2"
     },
     {
@@ -5253,5 +5269,9 @@
         "facebook": "profile.php?id=100045235490790",
         "instagram": "nichochote",
         "steam": "76561199131509476"
+    },
+    {
+        "account_id": 1171877280,
+        "steam": "76561199132143008"
     }
 ]
