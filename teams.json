@@ -134,6 +134,9 @@
         "weibo": "6558170702"
     },
     {
+        "team_id": 6209804
+    },
+    {
         "team_id": 6209804,
         "facebook": "RNGRoyal",
         "instagram": "rngroyal",
@@ -153,6 +156,15 @@
         "facebook": "AllianceLATAM",
         "instagram": "alliance_latam",
         "twitter": "Alliance_LATAM"
+    },
+    {
+        "team_id": 7119388,
+        "facebook": "teamspiritpage",
+        "instagram": "team__spirit",
+        "twitch": "spirit",
+        "twitter": "Team__Spirit",
+        "vk": "team_spirit",
+        "youtube": "spirit"
     },
     {
         "team_id": 7300277,
@@ -206,6 +218,7 @@
         "facebook": "Boomesportsid",
         "instagram": "boomesportsid",
         "twitter": "boomesportsid",
+        "weibo": "7813440291",
         "youtube": "UCVU7LT5bYlVI28P-RF7CDBQ"
     },
     {
@@ -214,6 +227,10 @@
         "instagram": "infinitye_sports",
         "twitter": "InFinitye_sport",
         "youtube": "UCNwEvtAAfGbJeqYUmczAuBQ"
+    },
+    {
+        "team_id": 8118197,
+        "twitter": "NoRunes_GG"
     },
     {
         "team_id": 8124688
@@ -235,6 +252,7 @@
         "instagram": "bleed.gg",
         "twitch": "bleedgg",
         "twitter": "ggBleed",
+        "weibo": "7814918026",
         "youtube": "BleedeSports"
     },
     {
@@ -270,16 +288,19 @@
     },
     {
         "team_id": 8255888,
+        "instagram": "mindgames_live",
+        "twitter": "IAM_MindGames",
+        "vk": "iam_mindgames",
+        "youtube": "UC00sD_aoy85xZayEXEUzekg"
+    },
+    {
+        "team_id": 8255888,
         "twitter": "BetBoomTeam",
         "vk": "betboomteam",
         "youtube": "UCukWhjd4-arDJp3DjxPGXvA"
     },
     {
-        "team_id": 8255888,
-        "instagram": "mindgames_live",
-        "twitter": "IAM_MindGames",
-        "vk": "iam_mindgames",
-        "youtube": "UC00sD_aoy85xZayEXEUzekg"
+        "team_id": 8260932
     },
     {
         "team_id": 8260983,
@@ -376,9 +397,17 @@
         "vk": "pavaga_community"
     },
     {
+        "team_id": 8421850,
+        "instagram": "x3project",
+        "vk": "x3projectgg"
+    },
+    {
         "team_id": 8525778,
         "facebook": "polarisesports.gg",
         "twitter": "PolarisEsprtsPH"
+    },
+    {
+        "team_id": 8538804
     },
     {
         "team_id": 8545488,
@@ -463,6 +492,10 @@
         "facebook": "RavensDota"
     },
     {
+        "team_id": 8702318,
+        "facebook": "qhali.gg"
+    },
+    {
         "team_id": 8724984,
         "facebook": "www.virtus.pro",
         "instagram": "virtuspro",
@@ -487,12 +520,22 @@
         "twitter": "Balrogs_Esports"
     },
     {
+        "team_id": 8894818,
+        "facebook": "OoredooNation",
+        "instagram": "OoredooNation",
+        "twitter": "OoredooThunders",
+        "youtube": "OoredooNation"
+    },
+    {
         "team_id": 8927367,
         "vk": "marlerino"
     },
     {
         "team_id": 8943671,
         "weibo": "6558170702"
+    },
+    {
+        "team_id": 8944440
     },
     {
         "team_id": 8944582,
