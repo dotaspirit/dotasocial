@@ -316,14 +316,14 @@
     {
         "leagueid": 4442,
         "facebook": "BeyondTheSummitTV",
-        "twitch": "beyondthesummit",
-        "twitter": "Beyondthesummit",
-        "youtube": "UCQfAxSNTJvLISaFNJ0Dmg8w"
+        "twitter": "Beyondthesummit"
     },
     {
         "leagueid": 4442,
         "facebook": "BeyondTheSummitTV",
-        "twitter": "Beyondthesummit"
+        "twitch": "beyondthesummit",
+        "twitter": "Beyondthesummit",
+        "youtube": "UCQfAxSNTJvLISaFNJ0Dmg8w"
     },
     {
         "leagueid": 4442,
@@ -738,13 +738,6 @@
         "youtube": "UCQfAxSNTJvLISaFNJ0Dmg8w"
     },
     {
-        "leagueid": 13926,
-        "facebook": "epicentergg",
-        "twitch": "beyondthesummit",
-        "twitter": "epicentergg",
-        "vk": "epicentergg"
-    },
-    {
         "leagueid": 13937,
         "twitch": "pwrdesports1",
         "twitter": "PWRD_DOTA2",
@@ -763,7 +756,7 @@
         "leagueid": 13940,
         "facebook": "BeyondTheSummitTV",
         "instagram": "beyondthesummittv",
-        "twitch": "BeyondTheSummit",
+        "twitch": "bts",
         "twitter": "BTSdota",
         "youtube": "UCQfAxSNTJvLISaFNJ0Dmg8w"
     },
@@ -771,7 +764,7 @@
         "leagueid": 13940,
         "facebook": "BeyondTheSummitTV",
         "instagram": "beyondthesummittv",
-        "twitch": "bts",
+        "twitch": "BeyondTheSummit",
         "twitter": "BTSdota",
         "youtube": "UCQfAxSNTJvLISaFNJ0Dmg8w"
     },
@@ -986,7 +979,8 @@
         "leagueid": 14858,
         "twitch": "paragon_eng",
         "twitter": "prgnevents",
-        "vk": "prgnevents"
+        "vk": "prgnevents",
+        "youtube": "@prgneventsvods"
     },
     {
         "leagueid": 14859,
@@ -998,7 +992,7 @@
     {
         "leagueid": 14886,
         "facebook": "ESB.Dota2",
-        "twitch": "BTSBrasilEsportes",
+        "twitch": "beyondthesummit",
         "twitter": "esb_dota2",
         "youtube": "ESBDota2"
     },
@@ -1022,13 +1016,43 @@
         "leagueid": 14898,
         "twitch": "betboom_eng",
         "twitter": "fissure_eng",
-        "vk": "fissure_pro"
+        "vk": "betboom_esports"
     },
     {
         "leagueid": 14927,
         "facebook": "epulzegaming",
         "instagram": "EpulzeGaming",
         "twitch": "epulzegaming",
+        "twitter": "epulzegaming",
+        "youtube": "@EpulzeGaming"
+    },
+    {
+        "leagueid": 14999,
+        "facebook": "BeyondTheSummitTV",
+        "instagram": "beyondthesummittv",
+        "twitch": "beyondthesummit",
+        "twitter": "BTSdota",
+        "youtube": "UCQfAxSNTJvLISaFNJ0Dmg8w"
+    },
+    {
+        "leagueid": 14999,
+        "facebook": "BeyondTheSummitTV",
+        "instagram": "beyondthesummittv",
+        "twitch": "beyondthesummit",
+        "twitter": "BTSdota",
+        "youtube": "UCQfAxSNTJvLISaFNJ0Dmg8w"
+    },
+    {
+        "leagueid": 15021,
+        "twitch": "betboom_eng",
+        "twitter": "fissure_eng",
+        "vk": "betboom_esports"
+    },
+    {
+        "leagueid": 15089,
+        "facebook": "epulzegaming",
+        "instagram": "EpulzeGaming",
+        "twitch": "EpulzeGaming",
         "twitter": "epulzegaming",
         "youtube": "@EpulzeGaming"
     },
