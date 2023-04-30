@@ -738,6 +738,13 @@
         "youtube": "UCQfAxSNTJvLISaFNJ0Dmg8w"
     },
     {
+        "leagueid": 13926,
+        "facebook": "epicentergg",
+        "twitch": "beyondthesummit",
+        "twitter": "epicentergg",
+        "vk": "epicentergg"
+    },
+    {
         "leagueid": 13937,
         "twitch": "pwrdesports1",
         "twitter": "PWRD_DOTA2",
@@ -1049,12 +1056,84 @@
         "vk": "betboom_esports"
     },
     {
+        "leagueid": 15085,
+        "facebook": "pgl",
+        "instagram": "pglesports",
+        "twitch": "pgl_dota2en2",
+        "twitter": "pglesports",
+        "youtube": "pgl"
+    },
+    {
+        "leagueid": 15086,
+        "facebook": "pgl",
+        "instagram": "pglesports",
+        "twitch": "pgl_dota2",
+        "twitter": "pglesports",
+        "youtube": "pgl"
+    },
+    {
         "leagueid": 15089,
         "facebook": "epulzegaming",
         "instagram": "EpulzeGaming",
         "twitch": "EpulzeGaming",
         "twitter": "epulzegaming",
         "youtube": "@EpulzeGaming"
+    },
+    {
+        "leagueid": 15125,
+        "facebook": "epulzegaming",
+        "twitch": "epulzegaming",
+        "twitter": "epulzegaming",
+        "youtube": "@EpulzeGaming"
+    },
+    {
+        "leagueid": 15135,
+        "facebook": "ESB.Dota2",
+        "twitch": "esb_dota2",
+        "twitter": "esb_dota2",
+        "youtube": "ESBDota2"
+    },
+    {
+        "leagueid": 15137,
+        "twitch": "paragon_eng",
+        "twitter": "prgnevents",
+        "vk": "prgnevents",
+        "youtube": "@prgneventsvods"
+    },
+    {
+        "leagueid": 15140,
+        "twitch": "pwrdesports1",
+        "twitter": "PWRD_DOTA2",
+        "weibo": "7472612743",
+        "youtube": "UC69Mepk2QzyQCL3PwJt21Eg"
+    },
+    {
+        "leagueid": 15196,
+        "facebook": "ESLDota2",
+        "instagram": "ESLgaming",
+        "twitch": "esl_dota2",
+        "twitter": "ESLDota2",
+        "youtube": "ESLDota2"
+    },
+    {
+        "leagueid": 15199,
+        "twitch": "pinnacle_dota",
+        "twitter": "edenesportsgg"
+    },
+    {
+        "leagueid": 15251,
+        "facebook": "ESLDota2",
+        "instagram": "ESLgaming",
+        "twitch": "esl_dota2",
+        "twitter": "ESLDota2",
+        "youtube": "ESLDota2"
+    },
+    {
+        "leagueid": 15335,
+        "twitch": "paragon_eng",
+        "twitter": "prgnevents",
+        "vk": "prgnevents",
+        "youtube": "@prgneventsvods"
     },
     {
         "leagueid": 65000
