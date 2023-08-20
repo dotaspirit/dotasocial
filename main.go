@@ -288,10 +288,10 @@ func getLeaguesJson() {
 }
 
 func main() {
-	// items = nil
-	// getTeamsJson()
+	items = nil
+	getTeamsJson()
 	items = nil
 	getLeaguesJson()
-	// items = nil
-	// getPlayersJson()
+	items = nil
+	getPlayersJson()
 }
