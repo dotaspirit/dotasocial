@@ -187,22 +187,15 @@ func getPlayers(url string) {
 	var playersData WikiResponse
 	getJSON(url, &playersData)
 	doc := soup.HTMLParse(playersData.Parse.Text.ParserOutput)
-	tables := doc.FindAll("tbody")
-	for _, table := range tables {
-		rows := table.FindAll("tr")
-		for _, row := range rows {
-			cols := row.FindAll("td")
-			for i, col := range cols {
-				if i%5 == 1 {
-					playerLink := col.Find("a")
-					linkHref := playerLink.Attrs()["href"]
-					linkHrefSplit := strings.Split(linkHref, "/")
-					lnk := linkHrefSplit[len(linkHrefSplit)-1]
-					getData(lnk, "player")
-					time.Sleep(time.Minute)
-				}
-			}
-		}
+	blockPlayer := doc.FindAll("div", "class", "block-player")
+	fmt.Println(blockPlayer)
+	for _, player := range blockPlayer {
+		playerLink := player.Find("a")
+		linkHref := playerLink.Attrs()["href"]
+		linkHrefSplit := strings.Split(linkHref, "/")
+		lnk := linkHrefSplit[len(linkHrefSplit)-1]
+		getData(lnk, "player")
+		time.Sleep(time.Minute)
 	}
 }
 
@@ -229,7 +222,7 @@ func getLeagues(url string) {
 	doc := soup.HTMLParse(leaguesData.Parse.Text.ParserOutput)
 	leagues := doc.FindAll("div", "class", "Tournament")
 	for _, league := range leagues {
-		leagueLink := league.Find("b").Find("a")
+		leagueLink := league.Find("a")
 		linkHref := leagueLink.Attrs()["href"]
 		lnk := strings.Replace(linkHref, "/dota2/", "", -1)
 		getData(lnk, "league")
@@ -295,10 +288,10 @@ func getLeaguesJson() {
 }
 
 func main() {
-	items = nil
-	getTeamsJson()
-	items = nil
-	getLeaguesJson()
+	// items = nil
+	// getTeamsJson()
+	// items = nil
+	// getLeaguesJson()
 	items = nil
 	getPlayersJson()
 }
