@@ -381,9 +381,6 @@
         "leagueid": 4918
     },
     {
-        "leagueid": 4920
-    },
-    {
         "leagueid": 4972,
         "facebook": "WESGcom",
         "twitch": "wesg_dota2",
@@ -763,7 +760,7 @@
         "leagueid": 13940,
         "facebook": "BeyondTheSummitTV",
         "instagram": "beyondthesummittv",
-        "twitch": "bts",
+        "twitch": "BeyondTheSummit",
         "twitter": "BTSdota",
         "youtube": "UCQfAxSNTJvLISaFNJ0Dmg8w"
     },
@@ -771,7 +768,7 @@
         "leagueid": 13940,
         "facebook": "BeyondTheSummitTV",
         "instagram": "beyondthesummittv",
-        "twitch": "BeyondTheSummit",
+        "twitch": "bts",
         "twitter": "BTSdota",
         "youtube": "UCQfAxSNTJvLISaFNJ0Dmg8w"
     },
@@ -1134,6 +1131,80 @@
         "twitter": "prgnevents",
         "vk": "prgnevents",
         "youtube": "@prgneventsvods"
+    },
+    {
+        "leagueid": 15350,
+        "facebook": "pgl",
+        "instagram": "pglesports",
+        "twitch": "pgl_dota2en2",
+        "twitter": "pglesports",
+        "youtube": "pgl"
+    },
+    {
+        "leagueid": 15351,
+        "facebook": "pgl",
+        "instagram": "pglesports",
+        "twitch": "pgl_dota2",
+        "twitter": "pglesports",
+        "youtube": "pgl"
+    },
+    {
+        "leagueid": 15365,
+        "facebook": "ESB.Dota2",
+        "twitch": "esb_dota2",
+        "twitter": "esb_dota2",
+        "youtube": "ESBDota2"
+    },
+    {
+        "leagueid": 15374,
+        "facebook": "epulzegaming",
+        "twitch": "epulzegaming",
+        "twitter": "epulzegaming",
+        "youtube": "@EpulzeGaming"
+    },
+    {
+        "leagueid": 15383,
+        "twitch": "pwrdesports1",
+        "twitter": "PWRD_DOTA2",
+        "weibo": "7472612743",
+        "youtube": "UC69Mepk2QzyQCL3PwJt21Eg"
+    },
+    {
+        "leagueid": 15438,
+        "facebook": "epulzegaming",
+        "instagram": "EpulzeGaming",
+        "twitch": "EpulzeGaming",
+        "twitter": "epulzegaming",
+        "youtube": "@EpulzeGaming"
+    },
+    {
+        "leagueid": 15439,
+        "facebook": "ESLDota2",
+        "instagram": "ESLgaming",
+        "twitch": "esl_dota2earth",
+        "twitter": "ESLDota2",
+        "youtube": "ESLDota2"
+    },
+    {
+        "leagueid": 15475,
+        "facebook": "Gamers8GG",
+        "instagram": "gamers8gg",
+        "twitch": "Gamers8GG",
+        "twitter": "Gamers8GG",
+        "youtube": "UCENNtCRTPTdH_IGXs42LuHQ"
+    },
+    {
+        "leagueid": 15534,
+        "twitch": "gamesofuture",
+        "vk": "gamesofuture",
+        "youtube": "@GoFutureGames"
+    },
+    {
+        "leagueid": 15638,
+        "twitch": "betboom_eng",
+        "twitter": "fissure_eng",
+        "vk": "betboom_esports",
+        "youtube": "@fissure_dota2"
     },
     {
         "leagueid": 65000
