@@ -1115,7 +1115,7 @@
     {
         "leagueid": 15199,
         "twitch": "pinnacle_dota",
-        "twitter": "edenesportsgg"
+        "twitter": "PinnacleDota2"
     },
     {
         "leagueid": 15251,
@@ -1201,10 +1201,39 @@
     },
     {
         "leagueid": 15638,
+        "instagram": "fissurestudio",
         "twitch": "betboom_eng",
         "twitter": "fissure_eng",
         "vk": "betboom_esports",
         "youtube": "@fissure_dota2"
+    },
+    {
+        "leagueid": 15655,
+        "twitch": "pinnacle_dota",
+        "twitter": "PinnacleDota2"
+    },
+    {
+        "leagueid": 15728,
+        "facebook": "dota2",
+        "instagram": "dota2",
+        "twitch": "dota2ti",
+        "twitter": "dota2ti",
+        "vk": "dota2ti_ru",
+        "weibo": "dota2comcn",
+        "youtube": "dota2"
+    },
+    {
+        "leagueid": 15737,
+        "twitch": "pinnacle_dota",
+        "twitter": "PinnacleDota2"
+    },
+    {
+        "leagueid": 15739,
+        "facebook": "ESLDota2",
+        "instagram": "ESLgaming",
+        "twitch": "esl_dota2",
+        "twitter": "ESLDota2",
+        "youtube": "ESLDota2"
     },
     {
         "leagueid": 65000

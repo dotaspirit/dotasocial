@@ -26,7 +26,7 @@
         "facebook": "teamliquid",
         "instagram": "teamliquid",
         "twitch": "teamliquid",
-        "twitter": "teamliquid",
+        "twitter": "teamliquiddota",
         "vk": "teamliquid",
         "weibo": "teamliquid",
         "youtube": "UC52MVYpClH9oW6KOQhwiBWw"
@@ -40,6 +40,14 @@
         "vk": "nth_alliance",
         "weibo": "AllianceDotA2",
         "youtube": "theAllianceGG"
+    },
+    {
+        "team_id": 1061269,
+        "facebook": "vivokeyd",
+        "instagram": "vivokeyd",
+        "twitch": "vivokeydstars",
+        "twitter": "VivoKeyd",
+        "youtube": "vivokeyd"
     },
     {
         "team_id": 1838315,
@@ -210,7 +218,7 @@
         "facebook": "TSM",
         "instagram": "tsm",
         "twitch": "tsm",
-        "twitter": "TSM",
+        "twitter": "tsmreport",
         "weibo": "7120011948",
         "youtube": "TSM"
     },
@@ -244,13 +252,6 @@
         "youtube": "UCJLp8_yNy49D14efHOf_xJg"
     },
     {
-        "team_id": 8318683,
-        "facebook": "weareivygg",
-        "instagram": "weareivygg",
-        "twitter": "weareivygg",
-        "youtube": "UCRPgGXQNYD2IvKyRe348T1w"
-    },
-    {
         "team_id": 8344760,
         "instagram": "TBRDota2",
         "twitter": "TBRDota2"
@@ -279,14 +280,6 @@
         "youtube": "UCrH33KxagvOuOJm2AAMw9Ig"
     },
     {
-        "team_id": 8390848,
-        "facebook": "ITBesports",
-        "instagram": "intothebreachgg",
-        "twitch": "intothebreachtv",
-        "twitter": "ITBesports",
-        "youtube": "UCuCuAKdTtaHLec1PwF5Z08A"
-    },
-    {
         "team_id": 8525778,
         "facebook": "polarisesports.gg",
         "twitter": "PolarisEsprtsPH"
@@ -296,21 +289,15 @@
         "facebook": "viciousgamingdota"
     },
     {
-        "team_id": 8572181,
-        "facebook": "UDVESSUWAN",
-        "twitter": "TeamUDV"
-    },
-    {
         "team_id": 8574561,
         "weibo": "7837993741"
     },
     {
-        "team_id": 8590538,
-        "facebook": "madkingsesports",
-        "instagram": "madkingsesports",
-        "twitch": "MadKingsEsports",
-        "twitter": "madkingsesports",
-        "youtube": "UC2X51WoihsYBkhjeiuo4teQ"
+        "team_id": 8597391,
+        "instagram": "lunagalaxy_gg",
+        "twitch": "lunagalaxyesports",
+        "twitter": "LunaGalaxy_gg",
+        "youtube": "@lunagalaxy_gg"
     },
     {
         "team_id": 8597976,
@@ -335,12 +322,12 @@
     },
     {
         "team_id": 8605863,
-        "facebook": "officialentitygaming",
-        "instagram": "entity_europe",
+        "facebook": "EntityDota",
+        "instagram": "entitydota",
         "twitch": "entityeuropetv",
-        "twitter": "EntityEUROPE",
-        "vk": "entitydota2",
-        "youtube": "@entityeurope"
+        "twitter": "EntityDota",
+        "vk": "entitydota",
+        "youtube": "@entitydota"
     },
     {
         "team_id": 8606828,
@@ -365,17 +352,6 @@
         "facebook": "RavensDota"
     },
     {
-        "team_id": 8687717,
-        "facebook": "ancienttribe_gg",
-        "instagram": "ancienttribe_gg",
-        "twitter": "ancienttribe_gg",
-        "youtube": "@ancienttribe3990"
-    },
-    {
-        "team_id": 8702318,
-        "facebook": "qhali.gg"
-    },
-    {
         "team_id": 8728920,
         "instagram": "nouns_esports",
         "twitter": "nounsesports",
@@ -386,20 +362,6 @@
         "facebook": "balrogsteam",
         "instagram": "balrogsesports",
         "twitter": "Balrogs_Esports"
-    },
-    {
-        "team_id": 8863825,
-        "facebook": "SPAWNTeamDota",
-        "instagram": "spawnesports",
-        "twitter": "spawnteamdota",
-        "youtube": "@spawnteamdota"
-    },
-    {
-        "team_id": 8894818,
-        "facebook": "Quest.esport",
-        "instagram": "quest.esports",
-        "twitter": "questesports_",
-        "youtube": "@questesport"
     },
     {
         "team_id": 8943671,
