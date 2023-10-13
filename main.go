@@ -250,7 +250,7 @@ func getPlayersJson() {
 }
 
 func getTeamsJson() {
-	urlList := [4]string{"Portal:Teams/Americas", "Portal:Teams/Europe", "Portal:Teams/China", "Portal:Teams/Southeast_Asia"}
+	urlList := [4]string{"Portal:Teams"}
 
 	for _, url := range urlList {
 		getTeams(url)
