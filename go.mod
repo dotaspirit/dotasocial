@@ -1,11 +1,10 @@
 module github.com/dotaspirit/dotasocial
 
-go 1.21.0
-toolchain go1.24.1
+go 1.25.0
 
 require github.com/anaskhan96/soup v1.2.5
 
 require (
-	golang.org/x/net v0.38.0 // indirect
-	golang.org/x/text v0.23.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
+	golang.org/x/text v0.37.0 // indirect
 )
